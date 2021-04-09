@@ -1,0 +1,15 @@
+@import './reset.scss';
+@import './fonts.scss';
+
+
+body, html {
+  font-family: Gilroy, sans-serif;
+  font-weight: bold;
+}
+
+.App {
+  max-width: 1420px;
+  padding: 0 15px;
+}
+
+@import '../utils/classes.scss';
